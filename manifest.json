@@ -1,0 +1,24 @@
+{
+    "short-name": "WebKuy",
+    "name": "Website Kuy",
+    "start_url": "/index.html",
+    "scope": "/", 
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3A1AB1",
+    "icons": [
+       {
+         "src": "/images/icon-512.png",
+         "type": "image/png",
+         "size": "512x512",
+         "purpose": "any"
+       },
+       {
+         "src": "/images/icon-192.png",
+         "type": "image/png",
+         "size": "192x192",
+         "purpose": "any"
+       }
+     ],
+     "orientation": "portrait"
+  }
